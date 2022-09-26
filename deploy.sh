@@ -1,4 +1,4 @@
-echo "Switching to branch deploy"
+echo "Switching to branch master"
 git checkout master
 
 echo "Building app..."
